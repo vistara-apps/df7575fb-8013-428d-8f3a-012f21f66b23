@@ -25,8 +25,10 @@ export interface Game {
   team2Id: string;
   scoreTeam1?: number;
   scoreTeam2?: number;
-  status: 'scheduled' | 'in-progress' | 'completed' | 'cancelled';
+  status: GameStatus;
 }
+
+export type GameStatus = 'scheduled' | 'in-progress' | 'completed' | 'cancelled';
 
 export interface Post {
   postId: string;

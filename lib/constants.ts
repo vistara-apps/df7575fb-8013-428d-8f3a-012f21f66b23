@@ -95,3 +95,27 @@ export const MOCK_POSTS = [
     comments: [],
   },
 ];
+
+export const MOCK_SPONSORS = [
+  {
+    sponsorId: '1',
+    name: 'SportTech Pro',
+    website: 'https://sporttech.com',
+    logoUrl: 'https://via.placeholder.com/120x60/4F46E5/FFFFFF?text=SportTech',
+    description: 'Premium nohejbal equipment and gear for professionals and enthusiasts.',
+  },
+  {
+    sponsorId: '2',
+    name: 'Czech Sports Federation',
+    website: 'https://czechsports.cz',
+    logoUrl: 'https://via.placeholder.com/120x60/059669/FFFFFF?text=CSF',
+    description: 'Supporting nohejbal development across the Czech Republic.',
+  },
+  {
+    sponsorId: '3',
+    name: 'Arena Plus',
+    website: 'https://arenaplus.com',
+    logoUrl: 'https://via.placeholder.com/120x60/DC2626/FFFFFF?text=Arena+',
+    description: 'Modern sports facilities and court rentals for nohejbal teams.',
+  },
+];
