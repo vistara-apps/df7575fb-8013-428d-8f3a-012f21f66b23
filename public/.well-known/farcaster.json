@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Nohejbal Hub",
+    "subtitle": "Built with Zara",
+    "description": "Nohejbal Hub is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://df7575fb8013428d8f3a012f21f66b23-jw2u.vercel.app",
+    "splashImageUrl": "https://df7575fb8013428d8f3a012f21f66b23-jw2u.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://df7575fb8013428d8f3a012f21f66b23-jw2u.vercel.app/image.png",
+    "tagline": "Nohejbal Hub",
+    "screenshotUrls": [
+      "https://df7575fb8013428d8f3a012f21f66b23-jw2u.vercel.app/screenshot.png",
+      "https://df7575fb8013428d8f3a012f21f66b23-jw2u.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://df7575fb8013428d8f3a012f21f66b23-jw2u.vercel.app/api/webhook"
+  }
+}
